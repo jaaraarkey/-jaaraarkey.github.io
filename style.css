@@ -55,6 +55,9 @@ p {
   text-align: left;
 }
 .logo {
+  width: 100px;
+  height: 66px;
+ 
 }
 .accent {
   color: #007dfc;
